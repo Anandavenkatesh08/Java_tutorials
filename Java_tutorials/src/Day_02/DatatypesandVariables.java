@@ -1,13 +1,13 @@
 package Day_02;
 
 public class DatatypesandVariables {
-	// TODO Auto-generated method stub
+		
 		 // Instance variable
 	    int instanceVar = 50;
 
 	    // Static variable
 	    static int staticVar = 100;
-
+	    
 	    public static void main(String[] args) {
 	        // Local variable
 	        int localVar = 25;
@@ -20,7 +20,7 @@ public class DatatypesandVariables {
 	        System.out.println("Float Value: " + pi);
 	        System.out.println("Character Grade: " + grade);
 	        System.out.println("Passed?: " + passed);
-
+	    
 	}
 
 }
